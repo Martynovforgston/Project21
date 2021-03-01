@@ -1,0 +1,83 @@
+10
+
+dir
+116
+http://xn--e1afhkfagivn.xn--p1ai/svn/project21/trunk/MavenProject/Martynov/target
+http://xn--e1afhkfagivn.xn--p1ai/svn/project21
+
+
+
+2020-12-28T09:20:41.123574Z
+115
+user121
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+71e1b57e-25a4-40dd-b209-99e7dcc24e23
+
+Martynov-0.0.1-SNAPSHOT.jar
+file
+
+
+
+
+2021-02-19T13:23:12.134000Z
+3db2c0a969b6ec0182d08bbe51d53b7e
+2020-12-28T09:20:41.123574Z
+115
+user121
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14699
+
+classes
+dir
+
+generated-sources
+dir
+
+generated-test-sources
+dir
+
+maven-archiver
+dir
+
+maven-status
+dir
+
+surefire-reports
+dir
+
+test-classes
+dir
+
