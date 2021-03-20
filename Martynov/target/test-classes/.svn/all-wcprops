@@ -1,5 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/project21/!svn/ver/72/trunk/MavenProject/Martynov/target/test-classes
+V 68
+/svn/project21/!svn/ver/84/trunk/MavenProject/Martynov/src/test/java
+END
+RandomNumberTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project21/!svn/ver/83/trunk/MavenProject/Martynov/src/test/java/RandomNumberTest.java
+END
+ArrayBubbleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project21/!svn/ver/84/trunk/MavenProject/Martynov/src/test/java/ArrayBubbleTest.java
+END
+ArrayFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project21/!svn/ver/83/trunk/MavenProject/Martynov/src/test/java/ArrayFactoryTest.java
 END
